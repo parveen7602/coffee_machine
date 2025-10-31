@@ -17,7 +17,7 @@ The Coffee Machine Project is a simple console-based program that simulates how 
 ->Input/Output handling
 # How to Run
 -->Clone this repository:
-  git clone https://github.com/yourusername/coffee-machine.git
+  git clone https://github.com/parveen7602/coffee-machine.git
 -->Navigate to the project folder:
    cd coffee-machine
 -->Run the Python file:
